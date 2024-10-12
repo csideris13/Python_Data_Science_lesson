@@ -1,4 +1,2 @@
-def add(a,b)
-  return a+b
-
-add(2,4)
+x=4
+print(x)
