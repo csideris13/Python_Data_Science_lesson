@@ -1,3 +1,4 @@
+5-change-the-whole-code-add-a-comment-ask-for-input-two-numbers-and-calculate-the-sum
 #This code asks for 2 numbers and calculate the sum
 
 # Ask the user for the first number
@@ -11,3 +12,4 @@ sum = num1 + num2
 
 # Display the result
 print(f"The sum of {num1} and {num2} is {sum}.")
+
